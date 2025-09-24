@@ -8,7 +8,7 @@ allwrap()
 # Results Interpretation
 #---------------------------------------------------
 # estimated parameters for multinomial logit
-# estimated gamma is 0.05767815362664321
+# estimated gamma is -0.09418795907511646
 # gamma represents the the change in latent utility
 # with 1 unit change in the relative E(log wage)
 # in occupation j (relative to other)
